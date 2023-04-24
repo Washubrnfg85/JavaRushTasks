@@ -2,7 +2,6 @@
 ## Idea
 #############
 target/
-*.iml
-*.iws
-*.jrtc
+.idea/
+.idea
 *.class
