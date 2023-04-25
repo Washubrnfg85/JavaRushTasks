@@ -26041,3 +26041,7 @@ java.net.UnknownHostException: javarush.com
 2023-04-24 21:12:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2023-04-24 21:12:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-04-24 21:12:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-04-24 23:09:43 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-04-24 23:09:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-24 23:09:44 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
