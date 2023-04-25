@@ -1,6 +1,7 @@
 package com.javarush.task.task33.task3310.strategy;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,12 +12,18 @@ public class FileBucket {
     public FileBucket() {
         try {
             this.path = Files.createTempFile("tmp", null);
+            File newFile = path.toFile();
+            if (newFile.isFile()) {
+                FileWriter fileWriter = new FileWriter(newFile, false);
+            } else {
+
+            }
+            newFile.deleteOnExit();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
         //add substitution logic
-        File newFile = path.toFile();
-        newFile.deleteOnExit();
+
     }
 
     public long getFileSize() {
