@@ -26074,3 +26074,56 @@ java.net.UnknownHostException: javarush.com
 2023-04-26 21:29:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-04-26 21:29:18 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-04-26 21:29:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-26 21:30:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-04-26 21:30:32 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-04-26 21:30:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-04-26 21:30:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-27 08:55:01 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-04-27 08:55:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-27 08:55:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-27 08:55:02 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-04-28 13:05:20 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-04-28 13:05:20 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-04-28 13:05:20 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-04-28 13:05:21 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-04-28 13:05:21 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-04-28 13:05:21 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-04-29 10:18:08 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-04-29 10:18:08 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-04-29 10:18:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-04-29 10:18:09 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-04-29 10:18:09 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-04-29 10:18:09 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-04-29 18:29:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-04-29 18:29:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-04-29 19:23:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-04-29 19:26:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 15:37:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 16:25:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 16:37:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 16:59:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:14:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:20:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:22:12 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:26:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:29:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:30:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:31:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:32:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:33:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-01 18:35:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-02 12:50:04 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-05-02 12:50:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-02 12:50:04 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-05-08 13:49:31 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-05-08 13:49:31 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-05-08 13:49:31 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-08 13:49:31 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-05-08 13:49:31 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-05-08 13:49:31 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-05-08 13:53:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
