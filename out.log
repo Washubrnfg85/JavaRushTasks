@@ -26147,3 +26147,28 @@ java.net.UnknownHostException: javarush.com
 2023-05-12 09:45:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-05-12 09:45:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-05-12 09:45:58 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-05-14 21:18:11 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-05-14 21:18:11 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-05-14 21:18:11 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-14 21:18:11 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-05-14 21:18:11 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-05-14 21:18:11 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-05-14 21:37:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-14 21:37:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 21:37:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-14 21:37:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 21:39:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-14 21:41:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-14 21:41:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-05-14 21:41:07 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-05-14 21:53:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-14 21:53:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 22:10:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-14 22:10:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-14 22:11:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 22:11:21 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-05-14 22:11:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 22:11:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-14 22:11:22 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
