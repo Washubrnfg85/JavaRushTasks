@@ -26127,3 +26127,23 @@ java.net.UnknownHostException: javarush.com
 2023-05-08 13:49:31 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-05-08 13:49:31 INFO  ApacheHttpClient.startGA(36) - GAService started.
 2023-05-08 13:53:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-08 14:38:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-08 14:39:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-08 14:40:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-08 14:44:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-08 14:56:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-10 20:46:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-10 20:47:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-10 20:54:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-10 20:54:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-10 20:54:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-10 20:54:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-10 21:05:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-10 21:05:56 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-05-10 21:06:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-05-10 21:06:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-05-12 09:45:56 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-05-12 09:45:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-12 09:45:58 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-12 09:45:58 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
