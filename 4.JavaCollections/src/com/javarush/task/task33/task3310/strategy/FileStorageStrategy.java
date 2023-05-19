@@ -120,9 +120,10 @@ public class FileStorageStrategy implements StorageStrategy {
     @Override
     public Long getKey(String value) {
         for (FileBucket bucket : table) {
-            Entry entry = bucket.getEntry();
-            if (entry.getValue().equals(value)) {
-                return entry.getKey();
+            for (Entry entry = bucket.getEntry(); entry != null; entry = entry.next) {
+                if (entry.getValue().equals(value)) {
+                    return entry.getKey();
+                }
             }
         }
         return null;
